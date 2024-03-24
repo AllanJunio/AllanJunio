@@ -1,6 +1,6 @@
 ### 👋 Hello! Welcome to my Github profile
-I'm Allan, I'm Brazilian and a programming student at SENAI College.
-I'm a technology enthusiast and I'm currently studying object orientation using Java.
+I'm Allan, I'm Brazilian and a programming student at PUC Minas College.
+I'm a technology enthusiast and I'm currently tecnologis web Front-end.
 
 
 
