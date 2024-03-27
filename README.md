@@ -4,10 +4,10 @@ I'm a technology enthusiast and I'm currently tecnologis web Front-end.
 
 
 
-- 🔭 I’m currently working on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>
+- 🔭 I’m currently working on web development>
 
 - 🌱 I’m currently learning object oriented programming
-- 💬 Ask me about programming logic
+- 💬 Ask me about OOP
 #### CONTACTS 
 <a href = "mailto:allanjuniomkt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/allanjuniomuniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
